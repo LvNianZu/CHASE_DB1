@@ -5,7 +5,7 @@ CHASE DB1 dataset
 CHASE-DB1 is a retinal vessel segmentation dataset consisting of 28 color retinal images with a size of 999 × 960 pixels, collected from the left and right eyes of 14 students. Each image is annotated by two independent human experts.  **The dataset has been moved to this repository for download and can be downloaded directly.**
 
 
-![Image_01L](./images/Image_01L.jpg)
+<img src="./images/Image_01L.jpg" width="200"> <img src="./images/Image_01R.jpg" width="200"> <img src="./images/Image_02R.jpg" width="200"> 
 
 
 
